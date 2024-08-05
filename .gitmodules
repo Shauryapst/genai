@@ -1,3 +1,6 @@
 [submodule "genai-backend"]
 	path = genai-backend
 	url = https://github.com/Shauryapst/genai-backend.git
+[submodule "genai-frontend"]
+	path = genai-frontend
+	url = https://github.com/Shauryapst/genai-frontend.git
